@@ -1,6 +1,6 @@
 # Password generator - Bryan Acosta De La Cruz
-GitHub Link : https://github.com/TheBryan-Acosta/Portfolio
-GitPages Link : https://thebryan-acosta.github.io/Portfolio/
+GitHub Link : https://github.com/TheBryan-Acosta/Password-Generator
+GitPages Link : https://thebryan-acosta.github.io/Password-Generator/
 ## Description
 Challenge 03  This weeks challenge tasked us to create a password generator purely with javascript.
 ### What was done
