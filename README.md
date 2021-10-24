@@ -16,7 +16,7 @@ then at the very end, the generated stringbank was used by a for loop, looping b
 then I just but the return value of that function as password and stuck it as the passwordText.value and done!
 
 ## Images
-![PasswordGenerator](Develop\passgen.png?raw=true "passgen")
+![PasswordGenerator](Develop\passgen.png?)
 ## Installation
 Developed with HTML, CSS, js through Visual Studio Code.
 
